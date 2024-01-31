@@ -1,0 +1,76 @@
+#title-slide h1{
+    font-size:120%!important;
+    text-align:left;
+    background-color: none!important;
+    font-family: 'Fira Sans Light'!important;
+}
+#title-slide .subtitle {
+    font-size:60%!important;
+    text-align:left;
+
+}
+#title-slide .author, .date{
+    font-size:45%!important;
+    text-align:left;
+    line-height: 0.7;
+}
+.reveal .footer a{
+    text-align:center!important;
+    color:#333333!important;
+    font-size:120%!important;
+}
+.slide-background-content {
+ background-color:#ffffff;
+}
+
+
+
+
+h2, h3 {
+    background-color: #6c2e2a; 
+    color: #ffffff!important;
+    font-size:100%!important; 
+    padding: 10px;
+  }
+
+p {
+    font-size:60%!important;
+  }
+
+.tabela_zrodla{
+    width:33%!important;
+}
+.mapy_reclass{
+    width:40%!important;
+    text-align:center!important;
+    font-size:80%!important;
+}
+.legenda_reclass{
+    width:20%!important;
+    margin-top:180px;
+}
+.wykres_40{
+    width:40%!important;
+    text-align:center!important;
+}
+.wykres_60{
+    width:60%!important;
+    text-align:center!important;
+}
+.wykres_30{
+    width:33%!important;
+    text-align:center!important;
+    margin-top:80px;
+}
+.wykres_48{
+    width:48%!important;
+    text-align:center!important;
+}
+a{
+    text-align:center!important;
+    color:#365c5f!important;
+    font-size:100%!important;
+}
+.ikona_25{
+    width:20%!important;
+}
